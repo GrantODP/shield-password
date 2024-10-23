@@ -1,0 +1,12 @@
+/home/grant/projects/shield-password/manager/target/debug/deps/libsqlx-172e5bceb0ef503f.rmeta: /home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/lib.rs /home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/any/mod.rs /home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/macros/mod.rs /home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/ty_match.rs /home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/spec_error.rs /home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/lib.md /home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/macros/test.md /home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/any/install_drivers_note.md
+
+/home/grant/projects/shield-password/manager/target/debug/deps/sqlx-172e5bceb0ef503f.d: /home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/lib.rs /home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/any/mod.rs /home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/macros/mod.rs /home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/ty_match.rs /home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/spec_error.rs /home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/lib.md /home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/macros/test.md /home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/any/install_drivers_note.md
+
+/home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/lib.rs:
+/home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/any/mod.rs:
+/home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/macros/mod.rs:
+/home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/ty_match.rs:
+/home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/spec_error.rs:
+/home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/lib.md:
+/home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/macros/test.md:
+/home/grant/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sqlx-0.8.2/src/any/install_drivers_note.md:
